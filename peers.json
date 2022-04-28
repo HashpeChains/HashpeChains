@@ -1,0 +1,177 @@
+[{
+    caps: ["eth/66", "snap/1"],
+    enode: "enode://7e3d1b272aad0662700d725c033b6c0cc5f5ac85d2b7069f7aa5ca3372832c9ff0daf0086347b00ef1f7d2e5e6db5e4d370a1979330106d3cb203093873c9915@127.0.0.1:43232",
+    id: "075e6c7814ce7200847d9c1c1405482beacd89f2c1c188e8ef6708be846d081f",
+    name: "Geth/v1.10.17-stable-25c9b49f/linux-amd64/go1.18",
+    network: {
+      inbound: true,
+      localAddress: "127.0.0.1:30310",
+      remoteAddress: "127.0.0.1:43232",
+      static: false,
+      trusted: false
+    },
+    protocols: {
+      eth: {
+        difficulty: 303438,
+        head: "0xe46ed19d7e9ed0fee84233781ccabeebcaa10db2d56933a709f9fc5971c2821c",
+        version: 66
+      },
+      snap: {
+        version: 1
+      }
+    }
+}, {
+    caps: ["eth/66", "snap/1"],
+    enode: "enode://4a03af578bb242d62585faa8556214d97652b3355fd22320d2cab24f2a30e22487b57273662b789f2f0c74c4804ea3be72338fc6f2f2d529eb005ca90c1fcb08@127.0.0.1:32970",
+    id: "0b0366f331da1c473b867d56f7f3f6029c887b05787a0aa6e15990534c0241f1",
+    name: "Geth/v1.10.17-stable-25c9b49f/linux-amd64/go1.18",
+    network: {
+      inbound: true,
+      localAddress: "127.0.0.1:30310",
+      remoteAddress: "127.0.0.1:32970",
+      static: false,
+      trusted: false
+    },
+    protocols: {
+      eth: {
+        difficulty: 303338,
+        head: "0x90d2daa0a36a7b9e10d85db040b6dff3eeeaed97f88f37db8c562fd1f85ba640",
+        version: 66
+      },
+      snap: {
+        version: 1
+      }
+    }
+}, {
+    caps: ["eth/66", "snap/1"],
+    enode: "enode://375917dcdc5c99519741c41b383eeb5f69248fcf785599585b9979786d7976c140161ad44404a7379a920e0ebc05c057c6ce8a58404ac89fe0f7c5c6a88ceded@127.0.0.1:43870",
+    id: "5e552121a4c64ca533ef898f61f0c6b9f6f65457aef2b3644c9893594a2f409e",
+    name: "Geth/v1.10.17-stable-25c9b49f/linux-amd64/go1.18",
+    network: {
+      inbound: true,
+      localAddress: "127.0.0.1:30310",
+      remoteAddress: "127.0.0.1:43870",
+      static: false,
+      trusted: false
+    },
+    protocols: {
+      eth: {
+        difficulty: 303690,
+        head: "0xa0cc5f00e5adc2b7246590235803274943c374bd10cd028238dbc2d19981cd2a",
+        version: 66
+      },
+      snap: {
+        version: 1
+      }
+    }
+}, {
+    caps: ["eth/66", "snap/1"],
+    enode: "enode://0ddd3420c560c3a8f5790f37f94e76677459ffd142350542443a427aa62fb82ca7285c62f28c21a9bb9cacdf0ab8d51155439758f40153e5f7f22d226f772ca5@127.0.0.1:48440",
+    id: "b70fd75cbf5b4480ab078d06f7634b4c416cd002638519fdbc5dd68b1ba5f28c",
+    name: "Geth/v1.10.17-stable-25c9b49f/linux-amd64/go1.18",
+    network: {
+      inbound: true,
+      localAddress: "127.0.0.1:30310",
+      remoteAddress: "127.0.0.1:48440",
+      static: false,
+      trusted: false
+    },
+    protocols: {
+      eth: {
+        difficulty: 303694,
+        head: "0x38d4f4cc688d0a07bc28f1c0c05b2d6161e5c55bd14bdfd2a9d4ad4c4172ac78",
+        version: 66
+      },
+      snap: {
+        version: 1
+      }
+    }
+}, {
+    caps: ["eth/66", "snap/1"],
+    enode: "enode://fbd29701c598579f31fc0d960a5994341c36b7b0847f6288696e6121de5cddef33d3371d4c5eb737fcc2cd8173cceac3679910df760367040df77f5e4c50eb97@127.0.0.1:37816",
+    id: "b9e9e32d0199a2dcffe6db2d0a4a336fe540cd4a099d0cf5d8ad393ad7c6af4f",
+    name: "Geth/v1.10.17-stable-25c9b49f/linux-amd64/go1.18",
+    network: {
+      inbound: true,
+      localAddress: "127.0.0.1:30310",
+      remoteAddress: "127.0.0.1:37816",
+      static: false,
+      trusted: false
+    },
+    protocols: {
+      eth: {
+        difficulty: 301284,
+        head: "0x252db3845139989361615353790fc1b4c5309463515869b497cb539ccb3b545c",
+        version: 66
+      },
+      snap: {
+        version: 1
+      }
+    }
+}, {
+    caps: ["eth/66", "snap/1"],
+    enode: "enode://e9ec25ad5f12cd8094a90dc292b75e79662508d14f3cbf5d50b910e5e9a9a4101742ea97b37c1f3330ffe7801ed36ea22a5b287b9db9f26dc0fc67c6bf788e04@127.0.0.1:36208",
+    id: "bd4418134b03c1406873cc315151dff808914cbbe9895fe53afa94e90a82f76c",
+    name: "Geth/v1.10.17-stable-25c9b49f/linux-amd64/go1.18",
+    network: {
+      inbound: true,
+      localAddress: "127.0.0.1:30310",
+      remoteAddress: "127.0.0.1:36208",
+      static: false,
+      trusted: false
+    },
+    protocols: {
+      eth: {
+        difficulty: 303692,
+        head: "0xdb6c75c2ac637296323e36a9e996c27023ed2ca8bec91b6148d14a1313122604",
+        version: 66
+      },
+      snap: {
+        version: 1
+      }
+    }
+}, {
+    caps: ["eth/66", "snap/1"],
+    enode: "enode://d3660ba7e27df6ad22f0225325fad104c25a03cf3e982c7e29ba0d355a884e77eac183899c79a98cd96d0761a389e1314f9a15552f871cda2c613d1882396570@127.0.0.1:52422",
+    id: "c6aac9b5d1170365a84fc26aed331ecc1bc671a77c50c9a2df06aa0733486eb3",
+    name: "Geth/v1.10.17-stable-25c9b49f/linux-amd64/go1.18",
+    network: {
+      inbound: true,
+      localAddress: "127.0.0.1:30310",
+      remoteAddress: "127.0.0.1:52422",
+      static: false,
+      trusted: false
+    },
+    protocols: {
+      eth: {
+        difficulty: 303134,
+        head: "0xde906c5ea5ca70734886ef40f93114bf06f5e5561bb8882e63e0782dddfe8784",
+        version: 66
+      },
+      snap: {
+        version: 1
+      }
+    }
+}, {
+    caps: ["eth/66", "snap/1"],
+    enode: "enode://9d0bd8848bfeeaf2cbca592baa1fc429cf516d0cb24e0eafe42f4d9e795b3fa62792867329b62de17d8760f4f6901e0ee2628d1cce6804b68f70f557615ebc64@127.0.0.1:56664",
+    id: "c9ddec55c987b32f12ed14bffc1c9b79694b1a81ca2ab754c0636dab259a2fdb",
+    name: "Geth/v1.10.17-stable-25c9b49f/linux-amd64/go1.18",
+    network: {
+      inbound: true,
+      localAddress: "127.0.0.1:30310",
+      remoteAddress: "127.0.0.1:56664",
+      static: false,
+      trusted: false
+    },
+    protocols: {
+      eth: {
+        difficulty: 302960,
+        head: "0xc4e3b0de1440601137cc8722bc1ea48091a44e2945dfda1280903c376f60bb97",
+        version: 66
+      },
+      snap: {
+        version: 1
+      }
+    }
+}]
