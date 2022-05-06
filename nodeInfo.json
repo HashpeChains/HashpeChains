@@ -1,0 +1,34 @@
+{
+  enode: "enode://df092359b0464cf806c8f25cbe8dc27dc6ee3472684a4fde984d80ba9f19ca94107c14244740c6818d925e63a4033b097827fd6e0552b0c21209c6c2df3831c6@103.125.81.44:30310",
+  enr: "enr:-KO4QLYmkXXMjADQDsBc68qDDtX9KWbWjMPlCMsDe0fnMpBrG2XV_ac8kKByjsg_zG1AvLcsBpdjN4Xh-HXGdNkM59iGAYCVi0uQg2V0aMfGhKVb3OWAgmlkgnY0gmlwhGd9USyJc2VjcDI1NmsxoQLfCSNZsEZM-AbI8ly-jcJ9xu40cmhKT96YTYC6nxnKlIRzbmFwwIN0Y3CCdmaDdWRwgnZm",
+  id: "c21f2ab82d335763ca01ff7a6eeedb69c644878c8c22d371bdeaa6033c40728a",
+  ip: "103.125.81.44",
+  listenAddr: "[::]:30310",
+  name: "Geth/v1.10.17-stable-25c9b49f/linux-amd64/go1.18",
+  ports: {
+    discovery: 30310,
+    listener: 30310
+  },
+  protocols: {
+    eth: {
+      config: {
+        byzantiumBlock: 0,
+        chainId: 14444,
+        clique: {...},
+        constantinopleBlock: 0,
+        eip150Block: 0,
+        eip150Hash: "0x0000000000000000000000000000000000000000000000000000000000000000",
+        eip155Block: 0,
+        eip158Block: 0,
+        homesteadBlock: 0,
+        istanbulBlock: 0,
+        petersburgBlock: 0
+      },
+      difficulty: 7483,
+      genesis: "0x1513d7ffcbb75941d16a1049bae29f4801d38307b46be50af351667c89f8bbc9",
+      head: "0x9ad1d012adb4c8ac7d8aa7fc42c9b90712dbb58574a0a8e60dc156b6f43eefea",
+      network: 14444
+    },
+    snap: {}
+  }
+}

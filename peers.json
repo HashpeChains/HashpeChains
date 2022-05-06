@@ -1,19 +1,19 @@
 [{
     caps: ["eth/66", "snap/1"],
-    enode: "enode://7e3d1b272aad0662700d725c033b6c0cc5f5ac85d2b7069f7aa5ca3372832c9ff0daf0086347b00ef1f7d2e5e6db5e4d370a1979330106d3cb203093873c9915@127.0.0.1:43232",
-    id: "075e6c7814ce7200847d9c1c1405482beacd89f2c1c188e8ef6708be846d081f",
+    enode: "enode://5732f7d09db6bd1e07d59943f29627715b166913fa9b76d7aab8e28b7c11                                                                                                                     1da2e55ff5ae0d501a61fc50f4e239b21f9f4287e65567bf2616a1c21754f9736b77@127.0.0.1:5                                                                                                                     9878",
+    id: "1a44efcc21c9ba2ba97bae96cfe16cd021022f801ef6b806d9f9728af46b9be6",
     name: "Geth/v1.10.17-stable-25c9b49f/linux-amd64/go1.18",
     network: {
       inbound: true,
       localAddress: "127.0.0.1:30310",
-      remoteAddress: "127.0.0.1:43232",
+      remoteAddress: "127.0.0.1:59878",
       static: false,
       trusted: false
     },
     protocols: {
       eth: {
-        difficulty: 303438,
-        head: "0xe46ed19d7e9ed0fee84233781ccabeebcaa10db2d56933a709f9fc5971c2821c",
+        difficulty: 7436,
+        head: "0x432da14297c7bc862ca000a915c7e97a5731012a39c3c868ede12b418da3f33                                                                                                                     d",
         version: 66
       },
       snap: {
@@ -22,20 +22,20 @@
     }
 }, {
     caps: ["eth/66", "snap/1"],
-    enode: "enode://4a03af578bb242d62585faa8556214d97652b3355fd22320d2cab24f2a30e22487b57273662b789f2f0c74c4804ea3be72338fc6f2f2d529eb005ca90c1fcb08@127.0.0.1:32970",
-    id: "0b0366f331da1c473b867d56f7f3f6029c887b05787a0aa6e15990534c0241f1",
+    enode: "enode://4999bd329477364a6399d286c73256d474befb668b56c2f6c50fe62377bd                                                                                                                     e6b1ba4298bd9cd49c4bd9f74f68dff8b6370e43f5b97163322fe9792140c36c586a@127.0.0.1:5                                                                                                                     6690",
+    id: "6acb06d2c388aa25cfb53cb62c96895e7792109051feeaabddb73e9736018e35",
     name: "Geth/v1.10.17-stable-25c9b49f/linux-amd64/go1.18",
     network: {
       inbound: true,
       localAddress: "127.0.0.1:30310",
-      remoteAddress: "127.0.0.1:32970",
+      remoteAddress: "127.0.0.1:56690",
       static: false,
       trusted: false
     },
     protocols: {
       eth: {
-        difficulty: 303338,
-        head: "0x90d2daa0a36a7b9e10d85db040b6dff3eeeaed97f88f37db8c562fd1f85ba640",
+        difficulty: 7437,
+        head: "0x4bcdfb162e26e9de2d5bae79ef1ecb3a53601e21d9dead9dbe5a577e737ecbc                                                                                                                     1",
         version: 66
       },
       snap: {
@@ -44,20 +44,20 @@
     }
 }, {
     caps: ["eth/66", "snap/1"],
-    enode: "enode://375917dcdc5c99519741c41b383eeb5f69248fcf785599585b9979786d7976c140161ad44404a7379a920e0ebc05c057c6ce8a58404ac89fe0f7c5c6a88ceded@127.0.0.1:43870",
-    id: "5e552121a4c64ca533ef898f61f0c6b9f6f65457aef2b3644c9893594a2f409e",
+    enode: "enode://867c7c9aa84d7a31db3264cdff3da522b53f2fb62e5a7dc76555b7679827                                                                                                                     369866b2f8c70f02498dc29a84393e8e6e2a4b00736215f811ce0a0757cd0c5fdd26@127.0.0.1:4                                                                                                                     3052",
+    id: "7c7cd5933511105e5a843151bfe4775e87384884300a5b2eae2ce73354a15728",
     name: "Geth/v1.10.17-stable-25c9b49f/linux-amd64/go1.18",
     network: {
       inbound: true,
       localAddress: "127.0.0.1:30310",
-      remoteAddress: "127.0.0.1:43870",
+      remoteAddress: "127.0.0.1:43052",
       static: false,
       trusted: false
     },
     protocols: {
       eth: {
-        difficulty: 303690,
-        head: "0xa0cc5f00e5adc2b7246590235803274943c374bd10cd028238dbc2d19981cd2a",
+        difficulty: 1,
+        head: "0x1513d7ffcbb75941d16a1049bae29f4801d38307b46be50af351667c89f8bbc                                                                                                                     9",
         version: 66
       },
       snap: {
@@ -66,20 +66,20 @@
     }
 }, {
     caps: ["eth/66", "snap/1"],
-    enode: "enode://0ddd3420c560c3a8f5790f37f94e76677459ffd142350542443a427aa62fb82ca7285c62f28c21a9bb9cacdf0ab8d51155439758f40153e5f7f22d226f772ca5@127.0.0.1:48440",
-    id: "b70fd75cbf5b4480ab078d06f7634b4c416cd002638519fdbc5dd68b1ba5f28c",
+    enode: "enode://8b69501dd6833fe66805996c2dd0e92ab9513861514fe34fa39a8b8e4b9c                                                                                                                     0010e4d052a369747acf4c6e617c690e76d845ef8ed4d6687f53186f6cf34323f40d@127.0.0.1:3                                                                                                                     9320",
+    id: "8b08e6c2d59439f7c216d45be3e36f8470068fd2074866d9066ac894bc38feec",
     name: "Geth/v1.10.17-stable-25c9b49f/linux-amd64/go1.18",
     network: {
       inbound: true,
       localAddress: "127.0.0.1:30310",
-      remoteAddress: "127.0.0.1:48440",
+      remoteAddress: "127.0.0.1:39320",
       static: false,
       trusted: false
     },
     protocols: {
       eth: {
-        difficulty: 303694,
-        head: "0x38d4f4cc688d0a07bc28f1c0c05b2d6161e5c55bd14bdfd2a9d4ad4c4172ac78",
+        difficulty: 1,
+        head: "0x1513d7ffcbb75941d16a1049bae29f4801d38307b46be50af351667c89f8bbc                                                                                                                     9",
         version: 66
       },
       snap: {
@@ -88,20 +88,20 @@
     }
 }, {
     caps: ["eth/66", "snap/1"],
-    enode: "enode://fbd29701c598579f31fc0d960a5994341c36b7b0847f6288696e6121de5cddef33d3371d4c5eb737fcc2cd8173cceac3679910df760367040df77f5e4c50eb97@127.0.0.1:37816",
-    id: "b9e9e32d0199a2dcffe6db2d0a4a336fe540cd4a099d0cf5d8ad393ad7c6af4f",
+    enode: "enode://66ddfd9da20708c64704b3077402b16a5d144e21523d3eae8f3ee746d506                                                                                                                     d07cbff46856cade64c0e6bba5618dff7a52b1d54c141906168d4deada44531c88cf@127.0.0.1:4                                                                                                                     7648",
+    id: "b7aaffd895c3e08b63debc45bbbb984a1e9aea33be0bd89749669157284b4d27",
     name: "Geth/v1.10.17-stable-25c9b49f/linux-amd64/go1.18",
     network: {
       inbound: true,
       localAddress: "127.0.0.1:30310",
-      remoteAddress: "127.0.0.1:37816",
+      remoteAddress: "127.0.0.1:47648",
       static: false,
       trusted: false
     },
     protocols: {
       eth: {
-        difficulty: 301284,
-        head: "0x252db3845139989361615353790fc1b4c5309463515869b497cb539ccb3b545c",
+        difficulty: 1,
+        head: "0x1513d7ffcbb75941d16a1049bae29f4801d38307b46be50af351667c89f8bbc                                                                                                                     9",
         version: 66
       },
       snap: {
@@ -110,20 +110,20 @@
     }
 }, {
     caps: ["eth/66", "snap/1"],
-    enode: "enode://e9ec25ad5f12cd8094a90dc292b75e79662508d14f3cbf5d50b910e5e9a9a4101742ea97b37c1f3330ffe7801ed36ea22a5b287b9db9f26dc0fc67c6bf788e04@127.0.0.1:36208",
-    id: "bd4418134b03c1406873cc315151dff808914cbbe9895fe53afa94e90a82f76c",
+    enode: "enode://30ff6e241904063273a2514afb466b433a7fb8ceaa63571dd930ce0e01f1                                                                                                                     4f132583aa4e16155d34c59f6a1b55507d628c5ef2806f31fbca03f4427edb309380@127.0.0.1:5                                                                                                                     6714",
+    id: "b825dce88a4e78e81dd0cc6f9724f57cca55240ec969a84e005d0284eb5e9a71",
     name: "Geth/v1.10.17-stable-25c9b49f/linux-amd64/go1.18",
     network: {
       inbound: true,
       localAddress: "127.0.0.1:30310",
-      remoteAddress: "127.0.0.1:36208",
+      remoteAddress: "127.0.0.1:56714",
       static: false,
       trusted: false
     },
     protocols: {
       eth: {
-        difficulty: 303692,
-        head: "0xdb6c75c2ac637296323e36a9e996c27023ed2ca8bec91b6148d14a1313122604",
+        difficulty: 1,
+        head: "0x1513d7ffcbb75941d16a1049bae29f4801d38307b46be50af351667c89f8bbc                                                                                                                     9",
         version: 66
       },
       snap: {
@@ -132,20 +132,20 @@
     }
 }, {
     caps: ["eth/66", "snap/1"],
-    enode: "enode://d3660ba7e27df6ad22f0225325fad104c25a03cf3e982c7e29ba0d355a884e77eac183899c79a98cd96d0761a389e1314f9a15552f871cda2c613d1882396570@127.0.0.1:52422",
-    id: "c6aac9b5d1170365a84fc26aed331ecc1bc671a77c50c9a2df06aa0733486eb3",
+    enode: "enode://3634038e0dddbc21d5b3689de18454063e108a3a70b134c934e496dedff2                                                                                                                     d407962f65ea8da6579334ebcf3b8b229c6b423cd700fd20fa188b2713bd0a253082@127.0.0.1:3                                                                                                                     6268",
+    id: "df7ab5d6e96d20e0825f30e0923ed777fef3e417b64c05c989b22a214f1996cd",
     name: "Geth/v1.10.17-stable-25c9b49f/linux-amd64/go1.18",
     network: {
       inbound: true,
       localAddress: "127.0.0.1:30310",
-      remoteAddress: "127.0.0.1:52422",
+      remoteAddress: "127.0.0.1:36268",
       static: false,
       trusted: false
     },
     protocols: {
       eth: {
-        difficulty: 303134,
-        head: "0xde906c5ea5ca70734886ef40f93114bf06f5e5561bb8882e63e0782dddfe8784",
+        difficulty: 1,
+        head: "0x1513d7ffcbb75941d16a1049bae29f4801d38307b46be50af351667c89f8bbc                                                                                                                     9",
         version: 66
       },
       snap: {
@@ -154,20 +154,20 @@
     }
 }, {
     caps: ["eth/66", "snap/1"],
-    enode: "enode://9d0bd8848bfeeaf2cbca592baa1fc429cf516d0cb24e0eafe42f4d9e795b3fa62792867329b62de17d8760f4f6901e0ee2628d1cce6804b68f70f557615ebc64@127.0.0.1:56664",
-    id: "c9ddec55c987b32f12ed14bffc1c9b79694b1a81ca2ab754c0636dab259a2fdb",
+    enode: "enode://ac2123efcda11a45bde26e466abed1f061cbf374a7cfbc0e3b624fa6f925                                                                                                                     bfb0a7a191dd5a7afbccdfaa24f892ff734328ee68561422f28a479d9c1bc9f2efd9@127.0.0.1:5                                                                                                                     1922",
+    id: "e79dfb251353bd44661b44a38190a425efba25dbf5cf5b747bba7f24f56d4a46",
     name: "Geth/v1.10.17-stable-25c9b49f/linux-amd64/go1.18",
     network: {
       inbound: true,
       localAddress: "127.0.0.1:30310",
-      remoteAddress: "127.0.0.1:56664",
+      remoteAddress: "127.0.0.1:51922",
       static: false,
       trusted: false
     },
     protocols: {
       eth: {
-        difficulty: 302960,
-        head: "0xc4e3b0de1440601137cc8722bc1ea48091a44e2945dfda1280903c376f60bb97",
+        difficulty: 1,
+        head: "0x1513d7ffcbb75941d16a1049bae29f4801d38307b46be50af351667c89f8bbc                                                                                                                     9",
         version: 66
       },
       snap: {
